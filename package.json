@@ -1,0 +1,20 @@
+{
+  "name": "json-archive",
+  "version": "0.0.1",
+  "description": "Store posts as JSON and route them through Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StatelessSoftware/json-archive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StatelessSoftware/json-archive/issues"
+  },
+  "homepage": "https://github.com/StatelessSoftware/json-archive#readme"
+}
